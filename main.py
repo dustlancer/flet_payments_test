@@ -1,6 +1,5 @@
 import flet as ft
 import os
-from user_controls.counter import Counter
 from user_controls.payment_card import PaymentCard
 from user_controls.add_pay import AddPay
 from datetime import date
